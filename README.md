@@ -1,2 +1,2 @@
 # Curso Introductorio
-Contiene archivos con código fuente sobre conceptos básicos de Python, utilizando Jypyter Notebooks
+Contiene archivos con código fuente sobre conceptos básicos de Python, utilizando Jupyter Notebooks
